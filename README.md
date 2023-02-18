@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cc299792458
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning controll and mechanism designing.
-- 📫 How to reach me: zhu-c18@mails.tsinghua.edu.cn
+- 📫 How to reach me: cc2018011855@gmail.com
 
 <!---
 cc299792458/cc299792458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
