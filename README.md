@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cc299792458
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning controll and mechanism designing.
+- 🌱 I’m currently studing robot learning and control.
 - 📫 How to reach me: cc2018011855@gmail.com
 
 <!---
